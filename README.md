@@ -237,42 +237,44 @@ plt.axis("off")
 
 6)Convert the image from RGB to HSV and display it.
 
-<img width="552" height="345" alt="download" src="https://github.com/user-attachments/assets/d12c4c3c-a6b9-48f0-b95e-d1a34c528e26" />
+<img width="531" height="306" alt="image" src="https://github.com/user-attachments/assets/a43bf714-564b-4cef-83cd-734983a44ded" />
+
 
 7) Convert the image from RGB to GRAY and display it. 
 
 
-<img width="827" height="244" alt="420662698-f34966ee-21f9-4441-bdd4-36c3da71b89d" src="https://github.com/user-attachments/assets/9f048762-76f8-4f7f-8e29-3afc2cff5714" />
+<img width="506" height="298" alt="image" src="https://github.com/user-attachments/assets/a98b965c-65e1-4d3e-a3cb-93df34719367" />
 
 
 
 8) Convert the image from RGB to YCrCb and display it. 
 
 
-<img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/05559982-b002-47fe-a85a-24e870888d72" />
+<img width="484" height="299" alt="image" src="https://github.com/user-attachments/assets/3696457b-aa03-4f27-8224-9a35a06c51d4" />
 
 
 9)Convert the HSV image back to RGB and display it.
 
-<img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/22f8d9bd-0f4f-4032-b813-804525e289a4" />
+<img width="534" height="308" alt="image" src="https://github.com/user-attachments/assets/b6b6eee1-0781-46ec-bcd5-e2aa93759b08" />
 
 
 
-10) Modify the color of the pixel at (200, 200) to white.
+10) Modify the color of the pixel at (300, 300) to white.
 
 
-<img width="794" height="213" alt="download" src="https://github.com/user-attachments/assets/1b27d2ef-5eec-4f7f-8dd9-bfeb24f95248" />
+<img width="520" height="294" alt="image" src="https://github.com/user-attachments/assets/af1c5446-8920-49b1-bddb-0deb397dcea4" />
 
 11)  Resize the original image to half its size and display it.
     
-<img width="794" height="332" alt="download" src="https://github.com/user-attachments/assets/4e047572-4a8d-4c30-9c78-15fb3cc5c21f" />
+<img width="487" height="380" alt="image" src="https://github.com/user-attachments/assets/7550508c-44b3-4857-bd36-7d4ed0d88bc2" />
+
 
 12)Crop a region of interest (ROI) from the image (e.g., a 100x100 pixel area starting at (50, 50)) and display it.
 
 
 
 
-<img width="406" height="327" alt="421166243-6db4d2a2-8b21-43e5-976a-8f199eebc8cc" src="https://github.com/user-attachments/assets/bdd1ffcf-5b53-42e4-8645-d63c18f80c7d" />
+<img width="391" height="386" alt="image" src="https://github.com/user-attachments/assets/93fa7c1b-4290-49ee-8db2-1915dbb6cee2" />
 
 
 13) Flip the original image horizontally and display it.

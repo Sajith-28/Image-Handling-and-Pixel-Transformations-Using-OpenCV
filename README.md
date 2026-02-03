@@ -1,4 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+## NAME : SAJITH AHAMED F
+## REG NO : 212223240144
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
